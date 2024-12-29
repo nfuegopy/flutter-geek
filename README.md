@@ -145,7 +145,7 @@ La pantalla principal organiza las secciones en un formato de cuadrícula utiliz
 
 ## Créditos
 
-- **Desarrollador:** [Tu Nombre](https://github.com/tu-usuario)
+- **Desarrollador:** [Nfuego Developer]([https://github.com/tu-usuario](https://github.com/nfuegopy))
 - **Fuentes:** [PokéAPI](https://pokeapi.co/), [Dragon Ball API](https://dragonball-api.com/)
 
 ---
